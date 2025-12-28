@@ -1,3 +1,3 @@
 # Discount Loss Analysis
 
-Utilized PyCaret to build a time series forecasting model for financial losses and performed regression analysis to identify the most impactful features.
+Time series forecasting of discount-related losses using historical data, with systematic model evaluation and selection to support better pricing decisions.
